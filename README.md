@@ -14,3 +14,4 @@ A collection of notebooks tinkering around inferencing concepts. Each notebook i
 |---|-------|----------|
 | 01 | Op fusion and arithmetic intensity | [01_op_fusion_arithmetic_intensity.ipynb](notebooks/01_op_fusion_arithmetic_intensity.ipynb) |
 | 02 | Vertical fusion of elementwise ops (`torch.compile`) | [02_vertical_fusion_elementwise.ipynb](notebooks/02_vertical_fusion_elementwise.ipynb) |
+| 03 | GPU benchmarking: peak FLOP/s, power cap, bandwidth, roofline sweep | [03_gpu_benchmarking.ipynb](notebooks/03_gpu_benchmarking.ipynb) |
