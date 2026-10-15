@@ -16,3 +16,4 @@ A collection of notebooks tinkering around inferencing concepts. Each notebook i
 | 02 | Vertical fusion of elementwise ops (`torch.compile`) | [02_vertical_fusion_elementwise.ipynb](notebooks/02_vertical_fusion_elementwise.ipynb) |
 | 03 | GPU benchmarking: peak FLOP/s, power cap, bandwidth, roofline sweep | [03_gpu_benchmarking.ipynb](notebooks/03_gpu_benchmarking.ipynb) |
 | 04 | Matmul three ways (loops, dot products, weighted sum of columns) and attention score shapes | [04_matmul.ipynb](notebooks/04_matmul.ipynb) |
+| 05 | Tensor Puzzles: broadcasting, indexing and masks instead of loops | [05_Tensor_Puzzlers.ipynb](notebooks/05_Tensor_Puzzlers.ipynb) |
