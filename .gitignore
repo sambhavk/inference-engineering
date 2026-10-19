@@ -3,3 +3,6 @@
 __pycache__/
 .DS_Store
 ref-notebooks
+*.svg
+*.json.gz
+trace.json
